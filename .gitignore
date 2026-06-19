@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+.env
+# Never commit actual credentials or site configs
+site-specific/
+credentials/
